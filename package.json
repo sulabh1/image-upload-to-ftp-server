@@ -1,0 +1,17 @@
+{
+  "name": "ftpexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "ftp": "^0.3.10",
+    "multer": "^1.4.4"
+  }
+}
